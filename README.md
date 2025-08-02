@@ -8,7 +8,9 @@
 
 ---------------------------------------------------------------------------------------------------------------
 
-Build your own PCTx, HRPCTx, 25 Servo Controller or AnalogReader
+Build your own PCTx, HRPCTx, 25 Servo Controller or AnalogReader!
+
+The commercial version can be found here: http://www.endurance-rc.com/pctx.php
 
 This bootloader is found on every Endurance R/C device with the exception of the WiFi Servo Controller. 
 Requires Device Circuit, MPLAB, a PIC18F4330 compatible programmer and usage hardware.
